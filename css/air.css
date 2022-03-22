@@ -156,11 +156,23 @@ body {
   text-align: center;
 }
 
-img {
+img.circle {
   border-radius: 50%;
   height: 200px;
   margin: 0 auto;
   width: 200px;
+}
+
+img.logo {
+  width: 120px;
+  height: 120px;
+  padding: 6px;
+}
+
+img.icon {
+  width: 16px;
+  height: 16px;
+  padding: 6px;
 }
 
 a,
